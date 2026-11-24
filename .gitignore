@@ -1,0 +1,5 @@
+_Code/media*/
+_Code/audio/
+_Code/build/
+_Code/audio_raw/*.wav
+__pycache__/

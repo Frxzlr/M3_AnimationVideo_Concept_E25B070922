@@ -1,0 +1,4 @@
+manim==0.22.1
+pocketsphinx>=5.0
+numpy
+# system: ffmpeg, a LaTeX distribution with dvisvgm, pango/cairo (see Manim install docs)
